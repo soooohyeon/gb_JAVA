@@ -1,6 +1,4 @@
-## JAVA
-
-## Info
+## JAVA - Info
 220713 ~ 220823 <br>
 국비 java 수업 자료 및 복습 내용
 
